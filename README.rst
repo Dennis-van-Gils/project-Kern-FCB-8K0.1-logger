@@ -1,6 +1,11 @@
 .. image:: https://img.shields.io/github/v/release/Dennis-van-Gils/project-Kern-FCB-8K0.1-logger
     :target: https://github.com/Dennis-van-Gils/project-Kern-FCB-8K0.1-logger
     :alt: Latest release
+.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+    :target: https://github.com/psf/black
+.. image:: https://img.shields.io/badge/License-MIT-purple.svg
+    :target: https://github.com/Dennis-van-Gils/project-Kern-FCB-8K0.1-logger/blob/master/LICENSE.txt
+
 
 Kern FCB 8K0.1 balance logger
 =============================
