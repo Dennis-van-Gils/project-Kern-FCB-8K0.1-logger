@@ -1,0 +1,2 @@
+dvg-devices ~= 1.5
+numpy
